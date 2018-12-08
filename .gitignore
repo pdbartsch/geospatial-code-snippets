@@ -1,5 +1,7 @@
 data/*
-
+temp/*
+auth/*
+.vscode/settings.json
 
 
 
@@ -111,3 +113,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
